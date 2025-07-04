@@ -4,3 +4,6 @@
 [submodule "Wydajnosc_Skalowanie_i_Replikacja"]
 	path = Wydajnosc_Skalowanie_i_Replikacja
 	url = https://github.com/Broksonn/Wydajnosc_Skalowanie_i_Replikacja.git
+[submodule "bezpieczenstwo"]
+	path = bezpieczenstwo
+	url = https://github.com/BlazejUl/bezpieczenstwo.git

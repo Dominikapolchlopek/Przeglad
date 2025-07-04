@@ -1,0 +1,3 @@
+[submodule "repo-wspolne"]
+	path = repo-wspolne
+	url = https://github.com/GrzegorzSzczepanek/repo-wspolne.git

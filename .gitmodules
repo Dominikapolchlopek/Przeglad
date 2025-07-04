@@ -7,3 +7,6 @@
 [submodule "bezpieczenstwo"]
 	path = bezpieczenstwo
 	url = https://github.com/BlazejUl/bezpieczenstwo.git
+[submodule "Sprzet-dla-bazy-danych"]
+	path = Sprzet-dla-bazy-danych
+	url = https://github.com/oszczeda/Sprzet-dla-bazy-danych.git

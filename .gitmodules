@@ -19,3 +19,6 @@
 [submodule "Kopie_zapasowe_i_odzyskiwanie_danych"]
 	path = Kopie_zapasowe_i_odzyskiwanie_danych
 	url = https://github.com/m-smieja/Kopie_zapasowe_i_odzyskiwanie_danych.git
+[submodule "Partycjonowanie-danych"]
+	path = Partycjonowanie-danych
+	url = https://github.com/BartekHen/Partycjonowanie-danych.git
